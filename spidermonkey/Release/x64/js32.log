@@ -1,0 +1,248 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (.\Release\x64\) contains files shared from another project (jskwgen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  jsapi.c
+  jsarena.c
+  jsarray.c
+  jsatom.c
+  jsbool.c
+  jscntxt.c
+  jsdate.c
+  jsdbgapi.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsarena.c(68,18): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsapi.c(391,41): warning C4244: '-=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jscntxt.c(496,82): warning C4244: 'return': conversion from 'const jsid' to 'JSDHashNumber', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdbgapi.c(1308,72): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jscntxt.c(1091,38): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdate.c(728,56): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsapi.c(4204,61): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsapi.c(4206,62): warning C4244: '-=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdate.c(728,62): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsapi.c(4239,52): warning C4267: 'function': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsapi.c(4260,77): warning C4267: 'function': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdate.c(1747,70): warning C4267: '=': conversion from 'size_t' to 'intN', possible loss of data
+  jsdhash.c
+  jsdtoa.c
+  jsemit.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdhash.c(120,46): warning C4311: 'type cast': pointer truncation from 'const void *' to 'unsigned long'
+  jsexn.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdtoa.c(2776,32): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsdtoa.c(2833,63): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+  jsfun.c
+  jsgc.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(126,20): warning C4244: 'function': conversion from 'ptrdiff_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1022,49): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1034,52): warning C4244: '=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1064,70): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1074,65): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1129,12): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(1157,15): warning C4244: 'return': conversion from 'ptrdiff_t' to 'JSBool', possible loss of data
+  jshash.c
+  jsinterp.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(2783,17): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(2787,13): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(4123,55): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(4125,55): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsexn.c(660,13): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsexn.c(660,13): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsexn.c(668,17): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsexn.c(668,17): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(4172,55): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(4202,51): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(5040,62): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(5495,51): warning C4244: 'function': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsfun.c(146,5): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsfun.c(172,12): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(6580,36): warning C4244: '=': conversion from '__int64' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(6606,21): warning C4244: 'return': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(6653,57): warning C4244: '=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsemit.c(6837,57): warning C4244: '=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsfun.c(2308,58): warning C4244: 'function': conversion from '__int64' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsgc.c(1365,40): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsgc.c(3200,75): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+  jsiter.c
+  jslock.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(434,30): warning C4244: '=': conversion from 'jsuword' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(1295,41): warning C4244: '=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(1334,69): warning C4244: '=': conversion from '__int64' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(2379,74): warning C4244: 'function': conversion from '__int64' to 'jsint', possible loss of data
+  jslog2.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(5358,74): warning C4244: '=': conversion from '__int64' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsinterp.c(5372,75): warning C4244: '=': conversion from '__int64' to 'jsint', possible loss of data
+  jslong.c
+  jsmath.c
+  jsnum.c
+  jsobj.c
+  jsopcode.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsnum.c(324,48): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsnum.c(328,53): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsnum.c(329,49): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsnum.c(332,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsobj.c(2074,21): warning C4267: 'return': conversion from 'size_t' to 'jsatomid', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsobj.c(2106,41): warning C4244: '=': conversion from 'jsint' to 'uint16', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsobj.c(2107,41): warning C4244: '=': conversion from 'uint32' to 'uint16', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsobj.c(2304,27): warning C4244: '=': conversion from 'jsval' to 'uint32', possible loss of data
+  jsparse.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(734,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(753,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(807,67): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(957,56): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(981,61): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1018,54): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1026,52): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1245,32): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1697,29): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1715,13): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1731,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1744,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1798,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1805,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1814,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1822,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1861,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1890,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1927,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1944,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1981,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(1983,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2017,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2083,37): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2129,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2170,55): warning C4244: 'function': conversion from '__int64' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2197,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2202,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2208,51): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2268,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2281,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2306,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2327,63): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2341,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2351,29): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2362,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2368,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2384,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2386,51): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2391,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2419,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2422,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2425,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2426,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2430,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2442,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2450,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+  jsprf.c
+  jsregexp.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2521,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2529,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2533,1): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2536,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2537,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2613,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2624,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2626,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2628,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2631,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2646,29): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2654,25): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2669,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2680,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2687,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2690,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2724,17): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2752,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2757,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2785,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2825,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2848,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2853,21): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2862,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2872,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2887,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2909,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2910,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2913,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2936,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2946,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2949,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2978,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(2983,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3022,21): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3051,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3148,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3154,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3210,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3216,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3405,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3480,43): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3547,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3574,33): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3608,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3625,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3656,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3669,1): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3675,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3694,1): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3700,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3743,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3798,17): warning C4244: 'function': conversion from 'ptrdiff_t' to 'intN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3807,17): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsopcode.c(3890,25): warning C4047: 'return': 'jsbytecode *' differs in levels of indirection from 'int'
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(373,47): warning C4267: 'function': conversion from 'size_t' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(344,1): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(390,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(410,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(924,32): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(1018,43): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(1171,1): warning C4244: 'initializing': conversion from '__int64' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(1224,25): warning C4244: '=': conversion from '__int64' to 'JSUint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsprf.c(1246,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(469,80): warning C4267: '=': conversion from 'size_t' to 'jschar', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(482,61): warning C4267: '=': conversion from 'size_t' to 'jschar', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(855,27): warning C4267: 'return': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(1197,55): warning C4267: 'function': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(2939,47): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(2942,51): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(3057,47): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(3060,51): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(3379,37): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsregexp.c(4048,72): warning C4244: 'function': conversion from 'size_t' to 'jsdouble', possible loss of data
+  jsscan.c
+  jsscope.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\stralign.h(120,30): warning C4090: 'function': different '__unaligned' qualifiers (compiling source file jsapi.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\stralign.h(120,38): warning C4090: 'function': different '__unaligned' qualifiers (compiling source file jsapi.c)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscan.c(613,54): warning C4244: '=': conversion from 'ptrdiff_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscan.c(1067,39): warning C4244: '=': conversion from '__int64' to 'uint16', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscan.c(2066,37): warning C4244: '=': conversion from '__int64' to 'uint16', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscope.c(123,32): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscope.c(129,76): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscope.c(392,74): warning C4244: '=': conversion from 'jsword' to 'JSDHashNumber', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscope.c(395,74): warning C4244: '=': conversion from 'jsword' to 'JSDHashNumber', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscope.c(403,67): warning C4244: '=': conversion from 'const jsid' to 'JSDHashNumber', possible loss of data
+  jsscript.c
+  jsstr.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(508,71): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(518,50): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(551,46): warning C4267: 'function': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(1379,31): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(1380,40): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(1381,5): warning C4244: '+=': conversion from 'ptrdiff_t' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsscript.c(1382,5): warning C4244: '=': conversion from '__int64' to 'uint32', possible loss of data
+  jsutil.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(729,38): warning C4244: '=': conversion from 'size_t' to 'jsdouble', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1422,43): warning C4267: '=': conversion from 'size_t' to 'uintN', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1564,79): warning C4244: '=': conversion from '__int64' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1565,59): warning C4267: '+=': conversion from 'size_t' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1582,27): warning C4267: '+=': conversion from 'size_t' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1737,26): warning C4267: 'return': conversion from 'size_t' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1768,31): warning C4267: 'return': conversion from 'size_t' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1866,49): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1906,32): warning C4267: '=': conversion from 'size_t' to 'jsint', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(1937,38): warning C4244: '=': conversion from 'size_t' to 'jsdouble', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsstr.c(2014,38): warning C4244: '=': conversion from 'size_t' to 'jsdouble', possible loss of data
+  jsxdrapi.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsxdrapi.c(381,26): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\arthe\Desktop\UOX3\spidermonkey\jsxdrapi.c(450,40): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+  jsxml.c
+  prmjtime.c
+C:\Users\arthe\Desktop\UOX3\spidermonkey\prmjtime.c(104,42): warning C4244: 'return': conversion from 'time_t' to 'JSInt32', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\stralign.h(120,30): warning C4090: 'function': different '__unaligned' qualifiers (compiling source file jsutil.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\stralign.h(120,38): warning C4090: 'function': different '__unaligned' qualifiers (compiling source file jsutil.c)
+  js32.vcxproj -> C:\Users\arthe\Desktop\UOX3\spidermonkey\Release\x64\js32.lib

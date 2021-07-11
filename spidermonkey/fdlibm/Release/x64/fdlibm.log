@@ -1,0 +1,16 @@
+﻿  e_atan2.c
+  e_pow.c
+  e_sqrt.c
+  k_standard.c
+  s_atan.c
+  s_copysign.c
+  s_fabs.c
+  s_finite.c
+  s_isnan.c
+  s_matherr.c
+  s_rint.c
+  s_scalbn.c
+  w_atan2.c
+  w_pow.c
+  w_sqrt.c
+  fdlibm.vcxproj -> C:\Users\arthe\Desktop\UOX3\spidermonkey\fdlibm\Release\x64\fdlibm.lib

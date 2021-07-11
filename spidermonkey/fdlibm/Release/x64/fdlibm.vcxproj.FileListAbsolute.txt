@@ -1,0 +1,1 @@
+C:\Users\arthe\Desktop\UOX3\spidermonkey\fdlibm\Release\x64\fdlibm.lib

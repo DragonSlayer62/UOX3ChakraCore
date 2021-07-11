@@ -1,0 +1,1 @@
+C:\Users\arthe\Desktop\UOX3\spidermonkey\Release\x64\js32.lib
